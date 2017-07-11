@@ -3,7 +3,9 @@ img {
 }
 #face {
   width: 50px;
-  left: 25px;
+  position: absolute;
+  top: 300px;
+  left: 150px;
 }
 #eyes1 {
   width:200px;
