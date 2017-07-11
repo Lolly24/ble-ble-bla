@@ -1,11 +1,11 @@
 img {
-  width: 500px;
+  width: 50px;
 }
 #face {
-  width: 500px;
+  width: 50px;
   left: 25px;
 }
-#eyes2 {
+#eyes1 {
   width:200px;
   position: absolute;
   top: 200px;
